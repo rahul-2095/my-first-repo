@@ -1,5 +1,6 @@
 my first test tex
-test line two
+second line modified
 third line modified
-fourth line added
+fourth line modified
+sixth line added
 
